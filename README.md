@@ -23,7 +23,7 @@ Hi, I am Jemini Bhut.
 
 - 📝 I write articles on [https://jemininbhut.medium.com/](https://jemininbhut.medium.com/)
 
-- 📫 How to reach me *jeminibhut@gmail.com*
+- 📫 Reach out to me at *jeminibhut@gmail.com*
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jemini-bhut/](https://www.linkedin.com/in/jemini-bhut/)
 
