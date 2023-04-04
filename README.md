@@ -39,4 +39,4 @@ Hi, I am Jemini Bhut.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jemini-bhut&show_icons=true&locale=en" alt="jemini-bhut" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jemini-bhut&" alt="jemini-bhut" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jemini-bhut&" alt="jemini-bhut" /></p> -->
