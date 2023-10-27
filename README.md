@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jemini-bhut?tab=repositories](https://github.com/jemini-bhut?tab=repositories)
 
-- 📝 I write articles on [https://jemininbhut.medium.com/](https://jemininbhut.medium.com/)
+<!--- 📝 I write articles on [https://jemininbhut.medium.com/](https://jemininbhut.medium.com/)-->
 
 - 📫 Reach out to me at *jeminibhut@gmail.com*
 
